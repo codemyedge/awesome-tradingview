@@ -78,4 +78,4 @@ The following links showcase innovative projects created by our community member
 #### Wrappers
 
 - [lightweight-charts-react-wrapper](https://github.com/trash-and-fire/lightweight-charts-react-wrapper)
-- [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python)
+- [python-lightweight-charts](https://github.com/gopalparashar421/lightweight-charts-python)
